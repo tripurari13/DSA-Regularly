@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/tripurari13/DSA-Regularly/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/tripurari13/DSA-Regularly/tree/master/0268-missing-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tripurari13/DSA-Regularly/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/tripurari13/DSA-Regularly/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/tripurari13/DSA-Regularly/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
