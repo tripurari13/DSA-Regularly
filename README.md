@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/tripurari13/DSA-Regularly/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/tripurari13/DSA-Regularly/tree/master/0268-missing-number) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/tripurari13/DSA-Regularly/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tripurari13/DSA-Regularly/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/tripurari13/DSA-Regularly/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tripurari13/DSA-Regularly/tree/master/0268-missing-number) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/tripurari13/DSA-Regularly/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tripurari13/DSA-Regularly/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/tripurari13/DSA-Regularly/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
