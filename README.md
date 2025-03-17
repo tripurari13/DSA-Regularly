@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/tripurari13/DSA-Regularly/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3379-score-of-a-string](https://github.com/tripurari13/DSA-Regularly/tree/master/3379-score-of-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/tripurari13/DSA-Regularly/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sliding Window
 |  |
