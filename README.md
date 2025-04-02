@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/tripurari13/DSA-Regularly/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tripurari13/DSA-Regularly/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/tripurari13/DSA-Regularly/tree/master/2665-minimum-time-to-repair-cars) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/tripurari13/DSA-Regularly/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3643-zero-array-transformation-ii](https://github.com/tripurari13/DSA-Regularly/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
 |  |
