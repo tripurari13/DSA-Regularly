@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/tripurari13/DSA-Regularly/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/tripurari13/DSA-Regularly/tree/master/0268-missing-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/tripurari13/DSA-Regularly/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/tripurari13/DSA-Regularly/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tripurari13/DSA-Regularly/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/tripurari13/DSA-Regularly/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tripurari13/DSA-Regularly/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -53,10 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/tripurari13/DSA-Regularly/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/tripurari13/DSA-Regularly/tree/master/0268-missing-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/tripurari13/DSA-Regularly/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tripurari13/DSA-Regularly/tree/master/0268-missing-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/tripurari13/DSA-Regularly/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tripurari13/DSA-Regularly/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/tripurari13/DSA-Regularly/tree/master/2478-longest-nice-subarray) |
 ## Sorting
@@ -71,4 +74,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/tripurari13/DSA-Regularly/tree/master/0344-reverse-string) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/tripurari13/DSA-Regularly/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/tripurari13/DSA-Regularly/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/tripurari13/DSA-Regularly/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
