@@ -95,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/tripurari13/DSA-Regularly/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/tripurari13/DSA-Regularly/tree/master/0416-partition-equal-subset-sum) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/tripurari13/DSA-Regularly/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
