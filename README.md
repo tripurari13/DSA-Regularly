@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/tripurari13/DSA-Regularly/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/tripurari13/DSA-Regularly/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/tripurari13/DSA-Regularly/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/tripurari13/DSA-Regularly/tree/master/0416-partition-equal-subset-sum) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/tripurari13/DSA-Regularly/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tripurari13/DSA-Regularly/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tripurari13/DSA-Regularly/tree/master/2308-divide-array-into-equal-pairs) |
@@ -93,4 +94,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/tripurari13/DSA-Regularly/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/tripurari13/DSA-Regularly/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
