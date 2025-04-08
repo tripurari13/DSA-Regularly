@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/tripurari13/DSA-Regularly/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tripurari13/DSA-Regularly/tree/master/2308-divide-array-into-equal-pairs) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/tripurari13/DSA-Regularly/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/tripurari13/DSA-Regularly/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/tripurari13/DSA-Regularly/tree/master/2665-minimum-time-to-repair-cars) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/tripurari13/DSA-Regularly/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3643-zero-array-transformation-ii](https://github.com/tripurari13/DSA-Regularly/tree/master/3643-zero-array-transformation-ii) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/tripurari13/DSA-Regularly/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Binary Search
 |  |
 | ------- |
